@@ -37,7 +37,7 @@ public class Panal {
 
     public void visualizaAbejas() {
         for (int i = 0; i < abejas.length; i++) {
-            System.out.println("Abeja nº " + i + " " + abejas[i].toString());
+            System.out.println("Nº " + i + " " + abejas[i].toString());
         }
     }
 }
