@@ -40,5 +40,4 @@ public class Panal {
             System.out.println("Abeja nº " + i + " " + abejas[i].toString());
         }
     }
-
 }
