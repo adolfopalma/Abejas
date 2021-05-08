@@ -39,7 +39,7 @@ public class Main {
             System.out.println("3 Visualizar Panal ");
             System.out.println("4 Salir ");
             opcion = entrada.nextInt();
-            if (opcion < 1 || opcion > 4) {
+            if (opcion < 1 || opcion > 3) {
                 System.out.println("Introduzca una opción válida ");
             }
 
